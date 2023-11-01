@@ -12,9 +12,10 @@
  <Button
      android:id="@+id/butt_2"
      android:layout_width="wrap_content"
+
      android:layout_below="@id/butt_1"
      android:layout_height="wrap_content"
-     android:text="Button 2"/>
+     android:text="xin chào"/>
  <Button
      android:id="@+id/butt_3"
      android:layout_width="wrap_content"
